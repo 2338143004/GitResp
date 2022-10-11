@@ -1,4 +1,4 @@
-package com.mashibing.internalcommon.dto;
+package com.mashibing.internalcommon.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,13 +1,13 @@
 <component name="libraryTable">
-  <library name="Maven: commons-io:commons-io:2.2">
+  <library name="Maven: com.alibaba.cloud:spring-cloud-alibaba-commons:2021.1">
     <CLASSES>
-      <root url="jar://D:/maShiBin/apache-maven/apache-maven-3.8.1/repository/commons-io/commons-io/2.2/commons-io-2.2.jar!/" />
+      <root url="jar://D:/maShiBin/apache-maven/apache-maven-3.8.1/repository/com/alibaba/cloud/spring-cloud-alibaba-commons/2021.1/spring-cloud-alibaba-commons-2021.1.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://D:/maShiBin/apache-maven/apache-maven-3.8.1/repository/commons-io/commons-io/2.2/commons-io-2.2-javadoc.jar!/" />
+      <root url="jar://D:/maShiBin/apache-maven/apache-maven-3.8.1/repository/com/alibaba/cloud/spring-cloud-alibaba-commons/2021.1/spring-cloud-alibaba-commons-2021.1-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://D:/maShiBin/apache-maven/apache-maven-3.8.1/repository/commons-io/commons-io/2.2/commons-io-2.2-sources.jar!/" />
+      <root url="jar://D:/maShiBin/apache-maven/apache-maven-3.8.1/repository/com/alibaba/cloud/spring-cloud-alibaba-commons/2021.1/spring-cloud-alibaba-commons-2021.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
